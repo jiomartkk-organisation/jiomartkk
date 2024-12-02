@@ -1,4 +1,5 @@
 echo "hiiiiii"
 echo "helloooo"
 echo "hiiiiii"
-echo "helloooo":
+echo "helloooo"
+echo "how are you"
